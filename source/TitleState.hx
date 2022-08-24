@@ -484,9 +484,9 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = 'In association \nwith';
 				// credTextShit.screenCenter();
 				case 5:
-					createCoolText(['Cassette Girl by'], 45);
+					createCoolText(['kemp'], 45);
 				case 7:
-					addMoreText('DONDRRR', 45);
+					addMoreText('wake yo butt up', 45);
 					logoSpr.visible = false;
 				// credTextShit.text += '\nNewgrounds';
 				case 8:
@@ -511,10 +511,10 @@ class TitleState extends MusicBeatState
 					addMoreText('Vs');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Cassette');
+					addMoreText('kemp');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('Girl'); // credTextShit.text += '\nFunkin';
+					addMoreText('lol'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();
